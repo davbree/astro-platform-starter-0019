@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "sleep 1000000 && astro build",
+    "build": "sleep 6000 && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
